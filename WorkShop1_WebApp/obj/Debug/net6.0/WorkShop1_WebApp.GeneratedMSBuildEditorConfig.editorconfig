@@ -8,25 +8,25 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WorkShop1_WebApp
 build_property.RootNamespace = WorkShop1_WebApp
-build_property.ProjectDir = E:\Learn Vs\dotnetCore\Solution_WorkShop1\WorkShop1_WebApp\
+build_property.ProjectDir = K:\ProjectVS\WorkShop1_WebApp\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = E:\Learn Vs\dotnetCore\Solution_WorkShop1\WorkShop1_WebApp
+build_property.MSBuildProjectDirectory = K:\ProjectVS\WorkShop1_WebApp
 build_property._RazorSourceGeneratorDebug = 
 
-[E:/Learn Vs/dotnetCore/Solution_WorkShop1/WorkShop1_WebApp/Views/Home/Index.cshtml]
+[K:/ProjectVS/WorkShop1_WebApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Learn Vs/dotnetCore/Solution_WorkShop1/WorkShop1_WebApp/Views/Shared/_Layout.cshtml]
+[K:/ProjectVS/WorkShop1_WebApp/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Learn Vs/dotnetCore/Solution_WorkShop1/WorkShop1_WebApp/Views/_ViewImports.cshtml]
+[K:/ProjectVS/WorkShop1_WebApp/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Learn Vs/dotnetCore/Solution_WorkShop1/WorkShop1_WebApp/Views/_ViewStart.cshtml]
+[K:/ProjectVS/WorkShop1_WebApp/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
